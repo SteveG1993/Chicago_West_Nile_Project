@@ -1,0 +1,12 @@
+"M" stands for "Missing". Data for an element will be missing if the primary sensor for that weather element is inoperable (e.g., has an outage) or malfunctioning (e.g., producing errant data) AND any collocated backup sensor is also inoperable or malfunctioning. "T" stand for "Trace". This is a small amount of precipitation that will wet a raingage but is less than the 0.01 inch measuring limit.
+
+http://www.nws.noaa.gov/om/csd/info/NOWdata/FAQ.php
+
+The insertion of the stick displaces the collected water slightly upward. However, this error is considered negligible. Also, it should be understood that 0.005 inch of precipitation, one-half of one stick division, is required to wet a previously dry funnel before water will flow into the measuring tube. This unavoidable error is also considered negligible.
+
+https://www.weather.gov/iwx/coop_8inch
+
+Based on the aforementioned I imputed random values between [0.0, 0.01) as substitutes for trace.
+This was an alternative to dropping over 1,000 rows.
+I considered zeroing them, but I did not want the model to assume a dry day that may conflict with 
+dew point and temperature.

@@ -1,0 +1,47 @@
+
+Defining problem
+
+
+Gathering Data and put into DataFrame
+
+EDA
+
+Filling missing/incompatible values
+
+Determing the kind of problem
+
+Creating model
+    Exploratory modelling
+
+Tuning model
+
+Visualizing problem
+Visualizing Data
+Visualizing Results
+
+Graphs and charts
+Metrics - confidence building
+
+
+Jupyter Notebook
+    Programming
+    Formatting
+
+
+
+Code
+    modules
+
+
+Presentation
+    Gathering images
+    Presentation notes
+    
+
+
+
+Communicating with Bethany
+
+
+
+

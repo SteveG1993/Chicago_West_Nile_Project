@@ -1,0 +1,52 @@
+Weather Data
+
+For weather conditions we may find multiple conditions in one cell. 
+Action: Check lengths or unique values in columns.
+
+Optional: Create a map from weather codes to plain English descriptions
+
+Features:
+
+Time
+Location
+Species
+Weather
+
+Spray Time
+Spray Location
+
+
+Odd number years are the training data
+Even number years are in the test data
+
+
+
+Note: We need an exact number of rows for the test data
+
+Questions for Bethany
+1. Data imputation strategies
+    1. Avoid confounding data
+    2. Look for columns that are always missing to
+2. Handling Lat/Long as discrete variables?
+
+
+Latitude, Longitude as dummy?
+
+Lat/Long at continuous variable?
+
+Use Zip codes as a rough approximation before we address Lat/Long
+
+NAVIGATE GROUP WORK
+
+Clean data together
+
+Modeling separately
+
+
+Project Plan Due 
+
+Next Meeting: EDA on Wednesday. 
+
+
+
+
