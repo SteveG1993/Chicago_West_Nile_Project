@@ -6,6 +6,11 @@ Steve Gregoire
 Nanda Nathan
 Elizabeth Tyree
 
+
+This project was created base off a data science competition hosted by https://www.kaggle.com/c/predict-west-nile-virus
+
+
+
 Slide presentation can be found at:
 
 https://docs.google.com/presentation/d/15JVyeqPao8dZws0TVlY7SI73sO_dP6saUNWl3p2O3i8/edit?usp=sharing
